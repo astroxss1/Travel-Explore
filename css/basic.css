@@ -1,0 +1,35 @@
+a {
+    text-decoration: none;
+
+}
+
+body,
+html {
+    overflow-x: hidden;
+    height: 100%;
+}
+
+li {
+    list-style: none;
+}
+
+ul,
+ol {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    max-width: 1140px;
+    margin: 0 auto;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+:root {
+    --font-family: "Inter", sans-serif;
+    --second-family: "Mulish", sans-serif;
+    --third-family: "Playfair Display", sans-serif;
+}
