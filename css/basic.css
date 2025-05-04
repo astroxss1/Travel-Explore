@@ -33,3 +33,7 @@ ol {
     --second-family: "Mulish", sans-serif;
     --third-family: "Playfair Display", sans-serif;
 }
+
+img {
+    max-width: 100%;
+}

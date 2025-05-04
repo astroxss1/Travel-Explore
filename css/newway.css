@@ -1,0 +1,39 @@
+.newway {
+    margin-top: 41.35px;
+}
+
+.container {}
+
+.newway__content {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.newway__block {
+    margin-left: 41px;
+}
+
+.newway__img {}
+
+.newway__title {
+    font-family: var(--third-family);
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 139%;
+    color: #000;
+}
+
+.newway__text {
+    font-family: var(--second-family);
+    font-weight: 300;
+    font-size: 17px;
+    line-height: 176%;
+    color: #7d7987;
+    margin-top: 19.17px;
+    margin-bottom: 27px;
+}
+
+.newway__btn {}
+
+.btn {}
