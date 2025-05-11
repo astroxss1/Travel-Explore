@@ -46,7 +46,7 @@
 
 .Explore1 {}
 
-@media(max-width: 675px) {
+@media(max-width: 950px) {
     .greet__content {
         flex-direction: column;
     }

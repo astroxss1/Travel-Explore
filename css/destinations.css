@@ -1,0 +1,46 @@
+.destinations {
+    margin-top: 75.28px;
+
+}
+
+.container {}
+
+.destinations__content {
+    display: flex;
+    justify-content: space-between;
+}
+
+.destinations__title {
+    font-family: var(--third-family);
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 139%;
+    color: #000;
+}
+
+.destinations__link a {
+    font-family: var(--font-family);
+    font-weight: 600;
+    font-size: 17px;
+    line-height: 353%;
+    color: #fb8f1d;
+}
+
+.destinations__list {
+    margin-top: 124.07px;
+    display: flex;
+    flex-direction: row;
+    column-gap: 25px;
+
+}
+
+.destionations__card {}
+
+.destinations__pics {
+    border: 1px solid white;
+    border-radius: 8px;
+}
+
+.card__title {}
+
+.card__info {}

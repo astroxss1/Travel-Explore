@@ -37,3 +37,15 @@
 .newway__btn {}
 
 .btn {}
+
+@media(max-width: 950px) {
+    .newway__content {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .newway__img {
+        margin-top: 25px;
+        order: 2;
+    }
+}
