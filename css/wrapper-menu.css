@@ -1,0 +1,27 @@
+.wrapper-menu {}
+
+.menu-close {
+    display: flex;
+    justify-content: end;
+}
+
+.menu__nav {
+    display: flex;
+    row-gap: 50px;
+}
+
+.menu__list {
+    font-family: var(--font-family);
+    font-weight: 600;
+    font-size: 17px;
+    line-height: 353%;
+    color: #fb8f1d;
+}
+
+.menu__list:first-child {
+    font-family: var(--font-family);
+    font-weight: 600;
+    font-size: 17px;
+    line-height: 353%;
+    color: #000000;
+}

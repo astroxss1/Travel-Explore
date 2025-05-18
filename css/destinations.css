@@ -34,13 +34,35 @@
 
 }
 
-.destionations__card {}
+.destionations__card {
+    width: 70%;
+}
+
+
 
 .destinations__pics {
     border: 1px solid white;
     border-radius: 8px;
+    width: 100%;
 }
 
 .card__title {}
 
 .card__info {}
+
+@media(max-width: 675px) {
+    .destinations__list {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .destinations__content {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .destionations__card {
+        margin-bottom: 70px;
+    }
+}
